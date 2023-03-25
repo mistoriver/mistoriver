@@ -6,7 +6,7 @@ Tech and space geek, like to build and rebuild gaming PC's at my free time.
 
 
 ## Feel free to contact me via
-* [LinkedIn](https://linkedin.com/n-popov)
+* [LinkedIn](https://linkedin.com/in/n-popov)
 * [Instagram](https://instagram.com/mistoriver)
 * [Telegram](https://t.me/mistoriver)
 
