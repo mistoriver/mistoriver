@@ -2,7 +2,7 @@
 
 Backend .NET developer with auto-QA background, actively learning System Design.
 
-Tech and space geek, like to build and rebuild gaming PC's at my free time.
+Tech and space geek, like to build and rebuild gaming PC's in my free time.
 
 
 ## Feel free to contact me via
