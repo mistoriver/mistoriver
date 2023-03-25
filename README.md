@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there, I'm Nikita Popov 👋 
+
+Backend .NET developer with auto-QA background, actively learning System Design.
+
+Tech and space geek, like to build and rebuild gaming PC's at my free time.
+
+
+## Feel free to contact me via
+* [LinkedIn](https://linkedin.com/n-popov)
+* [Instagram](https://instagram.com/mistoriver)
+* [Telegram](https://t.me/mistoriver)
 
 <!--
 **mistoriver/mistoriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
