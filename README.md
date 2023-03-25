@@ -5,7 +5,7 @@ Backend .NET developer with auto-QA background, actively learning System Design.
 Tech and space geek, like to build and rebuild gaming PC's in my free time.
 
 
-## Feel free to contact me via
+## Feel free to contact me
 * [LinkedIn](https://linkedin.com/in/n-popov)
 * [Instagram](https://instagram.com/mistoriver)
 * [Telegram](https://t.me/mistoriver)
